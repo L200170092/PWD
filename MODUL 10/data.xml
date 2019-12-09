@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type="text/css" href="data2.css"?>  
+ <Mahasiswa> 
+<ID> 
+<NIM>L200170092</NIM> 
+<Nama>Rossanti Kusumadewi</Nama> 
+<Kota>Salatiga</Kota> 
+</ID> 
+<ID> 
+<NIM>L200170077</NIM> 
+<Nama>Fischella Angieta Chelsea</Nama> 
+<Kota>Batang</Kota>
+</ID> 
+<ID>
+<NIM>L200170049</NIM> 
+<Nama>Risa Ayu Agustina</Nama> 
+<Kota>Purwodadi</Kota> 
+</ID> 
+<ID> 
+<NIM>L200170088</NIM> 
+<Nama>Nurul Arifia Safitri</Nama> 
+<Kota>Solo</Kota> 
+</ID> 
+</Mahasiswa>
+
